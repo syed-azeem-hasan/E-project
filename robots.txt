@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /Contact Us.Html/
+Disallow: /Help & Feedback.Html/
+Allow: /index.Html/
+Allow: /About Us.Html/
+Allow: /Classifications.Html/
+Allow: /Gallery.Html/
+Allow: /Fortune_Teller.Html/
+Allow: /Heart.Html/
+Allow: /Crane.Html/
+Allow: /Lotus_Flower.Html/
+Allow: /Masu_Box.Html/
+Allow: /Jumping_Frog.Html/
+Allow: /Butterfly.Html/
+Allow: /Swan.Html/
+Allow: /Hat.Html/
+Allow: /Water_Balloon.Html/
